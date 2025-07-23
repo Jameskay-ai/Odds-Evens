@@ -33,6 +33,18 @@ st.markdown(
 
 # Sidebar with explanation
 with st.sidebar:
+     # Button to redirect to Python Landing page
+    st.caption("To view other projects click here")
+    st.markdown(
+        """
+        <a href="https://jameskay-ai.github.io/" target="_blank">
+            <button style="background-color:#004080; color:white; padding:10px; border:none; border-radius:5px;">
+                Back to main
+            </button>
+        </a>
+        """,
+        unsafe_allow_html=True
+    )
     st.header("📘 Code Explanation")
     st.markdown("""
     This app takes a number and checks whether it's **even** or **odd** using basic Python logic.
