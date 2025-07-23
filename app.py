@@ -55,7 +55,9 @@ with st.sidebar:
     """)
 
 # Main title and description
-st.title("🔢 Even or Odd Checker")
+st.title("Welcome to the Python Porfolio")
+st.subheader("🔢 Even or Odd Checker")
+st.markdown("##### By: James Kay")
 st.write("Enter a number below and find out if it's even or odd!")
 
 # Input
