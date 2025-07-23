@@ -10,7 +10,7 @@ st.markdown(
             color: white;
         }
         [data-testid="stSidebar"] * {
-            color: #001f3f !important;
+            color: #006400 !important;
         }
         .main, .block-container {
             background-color: #ffffff;
