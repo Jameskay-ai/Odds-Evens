@@ -37,9 +37,9 @@ with st.sidebar:
     st.markdown("""
     This app takes a number and checks whether it's **even** or **odd** using basic Python logic.
     📘 Real-World Applications
-    - Detecting even/odd IDs
-    - Alternating logic in games or automation
-    - Basic input validation logic
+    Detecting even/odd IDs
+    Alternating logic in games or automation
+    Basic input validation logic
 
     ### 🧾 Code Breakdown
     ```python
