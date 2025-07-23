@@ -36,7 +36,7 @@ with st.sidebar:
     st.header("📘 Code Explanation")
     st.markdown("""
     This app takes a number and checks whether it's **even** or **odd** using basic Python logic.
-st.divider()
+
     ### 🧾 Code Breakdown
     ```python
     if number % 2 == 0:
@@ -47,7 +47,7 @@ st.divider()
     - `%` checks the remainder of `number ÷ 2`.
     - If remainder is 0 → **even**.
     - Otherwise → **odd**.
-st.divider()
+
     ### 💡 Key Concepts
     - Modulo operator (`%`)
     - Conditional logic (`if-else`)
