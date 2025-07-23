@@ -45,7 +45,7 @@ with st.sidebar:
         """,
         unsafe_allow_html=True
     )
-    st.header("📘 Code Explanation")
+    st.header("PROJECT EXPLANATION:")
     st.markdown("""
     This app takes a number and checks whether it's **even** or **odd** using basic Python logic.
     ### 📘 Real-World Applications
